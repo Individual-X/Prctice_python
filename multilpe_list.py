@@ -10,12 +10,12 @@ cl2 = list2.split()
 
 for i in range(len(cl1)):
     cl1[i] = int(cl1[i])
-    if cl1[i] %2 == 0:
+    if cl1[i] %2 != 0:
         list3.append(cl1[i])
 
 for i in range(len(cl2)):
     cl2[i] = int(cl2[i])
-    if cl2[i] %2 != 0:
+    if cl2[i] %2 == 0:
         list3.append(cl2[i])
 
 print(list3)
