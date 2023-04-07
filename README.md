@@ -1,3 +1,4 @@
 # Prctice_python
-this repo contains file and solution in python for problem solver
+This repo contains file and solution in python for problem solver fro,m pynative
+Codeforce, Hackerrank and leetcode will join soon.
 
