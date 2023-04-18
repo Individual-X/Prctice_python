@@ -20,5 +20,5 @@ for i in range(len(cl2)):
 
 print(list3)
 
-#Check if the list contains
+#Check if the list contains the git push from vs
 
