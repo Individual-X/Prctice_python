@@ -20,3 +20,5 @@ for i in range(len(cl2)):
 
 print(list3)
 
+#Check if the list contains
+
