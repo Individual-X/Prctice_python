@@ -5,5 +5,4 @@ allcombinations = permutations(list1)
 sum  = 0
 for item in allcombinations:
     print(''.join(item))
-    sum += 1
-    print(sum)
+    
